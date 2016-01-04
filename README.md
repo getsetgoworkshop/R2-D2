@@ -1,5 +1,5 @@
 # R2-D2
-The Arduino code here controls the main functions of my R2-D2 droid.
+The Arduino code here controls the main functions of my R2-D2 droid. No warranty is implied. Use at your own risk.
 
 Note that the sounds files are categorized, and must be configured in a single folder with each file numbered as follows:
 
@@ -17,3 +17,8 @@ The code provided uses the following sound groupings and file numbers:
 132 - 145 Scared (joystick forward left)
 146 - 172 Annoyed (joystick forward)
 173 - 176 Scream (joystick forward right)
+
+Club sound files arranged into these categories can be found at this link: 
+http://getsetgoworkshop.com/wp-content/uploads/Matts_R2_nunchuk_control_code.zip
+
+Sound files will need to be removed from folders (placed in one folder - the root folder - on your droid's SD) to work properly.
